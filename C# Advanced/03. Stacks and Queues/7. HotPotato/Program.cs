@@ -18,7 +18,7 @@ namespace _7._HotPotato
                 }
                 Console.WriteLine($"Removed {queue.Dequeue()}");
             }
-            Console.WriteLine($"Last in {queue.Dequeue()}");
+            Console.WriteLine($"Last is {queue.Dequeue()}");
         }
     }
 }
