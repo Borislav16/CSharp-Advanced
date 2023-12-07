@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. StackSum", "2. StackSum\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Simple Calculator", "3. Simple Calculator\3. Simple Calculator.csproj", "{7E684FF1-6DFF-43DD-9EB4-D1C23BFA557A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. MatchingBrackets", "4. MatchingBrackets\4. MatchingBrackets.csproj", "{46F19273-F0FA-447C-90D0-139B586B88A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. MatchingBrackets", "4. MatchingBrackets\4. MatchingBrackets.csproj", "{46F19273-F0FA-447C-90D0-139B586B88A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. PrintEvenNumbers", "5. PrintEvenNumbers\5. PrintEvenNumbers.csproj", "{660F8D48-1ED8-4B81-85F0-C86B9BB926CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. PrintEvenNumbers", "5. PrintEvenNumbers\5. PrintEvenNumbers.csproj", "{660F8D48-1ED8-4B81-85F0-C86B9BB926CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Supermarket", "6. Supermarket\6. Supermarket.csproj", "{EEA067E7-0A63-4867-B582-65295F999A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Supermarket", "6. Supermarket\6. Supermarket.csproj", "{EEA067E7-0A63-4867-B582-65295F999A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. HotPotato", "7. HotPotato\7. HotPotato.csproj", "{A52CCC98-D341-4CE1-A023-6BF87F2F28D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{EEA067E7-0A63-4867-B582-65295F999A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEA067E7-0A63-4867-B582-65295F999A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEA067E7-0A63-4867-B582-65295F999A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52CCC98-D341-4CE1-A023-6BF87F2F28D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52CCC98-D341-4CE1-A023-6BF87F2F28D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52CCC98-D341-4CE1-A023-6BF87F2F28D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52CCC98-D341-4CE1-A023-6BF87F2F28D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
